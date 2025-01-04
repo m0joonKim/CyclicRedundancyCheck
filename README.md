@@ -8,3 +8,5 @@ g++ -o crc_decoder_20200001 crc_decoder_20200001.cc
 ./crc_encoder input_file output_file generator dataword_size
 
 ./crc_decoder input_file output_file result_file generator dataword_size
+
+Sogang Univ. 2024 Spring Semester
